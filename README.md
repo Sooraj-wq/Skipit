@@ -9,7 +9,7 @@ Multi-Class Support: Specify the number of classes for each weekday (from 1 to 3
 
 Adjustments: Account for any extra classes you've attended or additional leaves you've already taken.
 
-## 🚀 How to Use
+## How to Use
 Simply open the index.html file in any modern web browser.
 
 Fill in the details.
